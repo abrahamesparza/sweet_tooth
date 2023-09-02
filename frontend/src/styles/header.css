@@ -1,0 +1,16 @@
+.headerBar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+    width: 100vw;
+
+    background-color: #535bf2;
+}
+.displayName {
+    margin-left: 0.5em;
+    align-self: flex-end;
+}
+p {
+    align-self: flex-end;
+}

@@ -1,0 +1,13 @@
+#root {
+  margin: 0 auto;
+}
+
+.appContainer {
+  min-width: 100vw;
+  text-align: center;
+}
+
+input, button {
+  width: 50%;
+  align-self: center;
+}
