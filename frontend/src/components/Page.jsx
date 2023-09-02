@@ -8,8 +8,6 @@ import SignUpForm from './SignUpForm';
 
 function Form({ showPage }) {
 
-    console.log('show page in form component', showPage)
-
     return (
         <>
             {showPage === 'login' ? (
