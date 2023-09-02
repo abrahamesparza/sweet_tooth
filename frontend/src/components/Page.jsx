@@ -6,7 +6,7 @@ import Landing from "./Landing";
 import LoginForm from "./LoginForm";
 import SignUpForm from './SignUpForm';
 
-function Form({ switchForm, showPage }) {
+function Form({ showPage }) {
 
     console.log('show page in form component', showPage)
 
